@@ -1,6 +1,6 @@
 # pcb_Keyboards_layout
 
-## [中文版]{./README_CN.MD}
+## [中文版](./README_CN.MD)
 
 ## This is my first show
 
